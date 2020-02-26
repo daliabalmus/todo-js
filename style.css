@@ -1,0 +1,22 @@
+
+body {
+    background: #352f5b;
+}
+.form-control {
+    background: rgba(0,0,0,0.2);
+    border: 1px solid #303061;
+    padding: 25px 20px;
+
+}
+ul li.list-group-item {
+    background: #423a6f;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+}
+
+.delete{
+    cursor: pointer;
+}
+.filtered {
+    display: none !important;
+}
